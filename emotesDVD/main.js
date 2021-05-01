@@ -142,6 +142,6 @@ dvd({
   speed: 100 * (new URL(window.location.href).searchParams.get("speed") || 3),
   bumpEdge: function () {
     document.querySelector(".emotes").src =
-      daphO[Math.floor(Math.random() * daphO.length)];
+      emotes[Math.floor(Math.random() * emotes.length)];
   },
 });
