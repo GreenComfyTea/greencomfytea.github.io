@@ -28,10 +28,10 @@
 	<br>
 	<br>
 	<a href="https://github.com/greencomfytea/greencomfytea.github.io/commits/main">
-		<img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/greencomfytea/greencomfytea.github.io?logo=git-commit" />
+		<img alt="Commits" src="https://custom-icon-badges.demolab.com/github/commit-activity/t/greencomfytea/greencomfytea.github.io?logo=git-commit" />
 	</a>
 	<a href="https://github.com/greencomfytea/greencomfytea.github.io/commits/main">
-		<img alt="Commits" src="https://custom-icon-badges.demolab.com/github/commit-activity/t/greencomfytea/greencomfytea.github.io?logo=git-commit" />
+		<img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/greencomfytea/greencomfytea.github.io?logo=git-commit" />
 	</a>
 	<br>
 	<a href="https://github.com/greencomfytea/greencomfytea.github.io/graphs/commit-activity">
